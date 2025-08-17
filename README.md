@@ -53,3 +53,22 @@ Convert Video To Audio
    - FFmpeg: Per l'elaborazione audio/video.
    - Pillow (PIL): Per la gestione e il salvataggio delle immagini di copertina.
    - OpenCV: Come metodo alternativo per l'estrazione delle miniature.
+
+   
+
+[Convert Video To Audio] è distribuito sotto la licenza **GNU General Public License v3**.
+
+## Licenza
+- Il codice di questo progetto è rilasciato con licenza **GPLv3**.
+- Una copia della licenza è disponibile nel file [LICENSE](LICENSE).
+
+## Terze parti
+Questo pacchetto include:
+- **FFmpeg (ffmpeg.exe, ffplay.exe, ffprobe.exe)**  
+  Rilasciato con licenza **GPL v2 o successiva**.  
+  Vedi il file [NOTICE-FFmpeg.txt](NOTICE-FFmpeg.txt) per dettagli.  
+
+## Sorgenti
+Il codice sorgente corrispondente a FFmpeg è disponibile qui:  
+👉 https://ffmpeg.org/download.html
+
