@@ -1,5 +1,8 @@
 Convert Video To Audio
-
+  Un'applicazione desktop sviluppata in Python con CustomTkinter, convertita in file eseguibile (.exe) con inclusi ffmpeg.exe, ffplay.exe e ffprobe.exe.
+  
+  👉 Funziona standalone su Windows 10/11 senza necessità di installare Python o altre librerie.
+  
   Convert Video To Audio è un'applicazione desktop intuitiva e facile da usare, progettata per estrarre l'audio dai file video e salvarlo in diversi formati audio di
   alta qualità. L'interfaccia grafica moderna, basata su CustomTkinter, offre un'esperienza utente fluida e piacevole.
   
