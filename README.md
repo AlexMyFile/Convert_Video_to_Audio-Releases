@@ -66,7 +66,9 @@ Convert Video To Audio
 Questo pacchetto include:
 - **FFmpeg (ffmpeg.exe, ffplay.exe, ffprobe.exe)**  
   Rilasciato con licenza **GPL v2 o successiva**.  
-  Vedi il file [NOTICE-FFmpeg.txt](NOTICE-FFmpeg.txt) per dettagli.  
+  Vedi il file [NOTICE-FFmpeg.txt]
+ per dettagli.  
+ https://github.com/AlexMyFile/Convert_Video_to_Audio-Releases/blob/main/NOTICE-FFmpeg.txt
 
 ## Sorgenti
 Il codice sorgente corrispondente a FFmpeg è disponibile qui:  
