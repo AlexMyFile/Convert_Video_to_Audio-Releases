@@ -61,7 +61,7 @@ Convert Video To Audio
 [Convert Video To Audio] è distribuito sotto la licenza ** BSD-3-Clause license**.
 
 ## Licenza
-- Il codice di questo progetto è rilasciato con licenza **GPLv3**.
+- Il codice di questo progetto è rilasciato con licenza **BSD-3-Clause license**.
 - Una copia della licenza è disponibile nel file [LICENSE](LICENSE).
 
 ## Terze parti
