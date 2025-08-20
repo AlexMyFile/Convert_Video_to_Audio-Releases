@@ -3,6 +3,8 @@
 Convert Video To Audio
   Un'applicazione desktop sviluppata in Python con CustomTkinter, convertita in file 
   eseguibile (.exe) con inclusi ffmpeg.exe, ffplay.exe e ffprobe.exe.
+
+  ⚠️ **Nota**: questo repository non contiene i sorgenti. I file `.exe` sono stati compilati a partire dal progetto originale.
   
   👉 Funziona standalone su Windows 10/11 senza necessità di installare Python o altre librerie.
   
